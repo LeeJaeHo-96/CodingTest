@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\bin\Debug\net8.0\Codingtest 문자열뒤집기.exe
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\bin\Debug\net8.0\Codingtest 문자열뒤집기.deps.json
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\bin\Debug\net8.0\Codingtest 문자열뒤집기.runtimeconfig.json
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\bin\Debug\net8.0\Codingtest 문자열뒤집기.dll
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\bin\Debug\net8.0\Codingtest 문자열뒤집기.pdb
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.sourcelink.json
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.dll
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\refint\Codingtest 문자열뒤집기.dll
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.pdb
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\Codingtest 문자열뒤집기.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\CodingTest\Codingtest 문자열뒤집기\obj\Debug\net8.0\ref\Codingtest 문자열뒤집기.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Codingtest 문자열뒤집기/1.0.0": {
+        "runtime": {
+          "Codingtest 문자열뒤집기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codingtest 문자열뒤집기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
